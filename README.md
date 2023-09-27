@@ -1,5 +1,5 @@
 # Operating-Systems-Lab-IUST
-My solutions to IUST's Operating System Laboratory, Spring 2023, Dr. Sheikhi.
+My solutions to IUST's Operating System Laboratory, Fall 2022, Dr. Sheikhi.
 
 ## <img width="20" height="20" src="https://img.icons8.com/external-kiranshastry-lineal-kiranshastry/64/41b883/external-idea-advertising-kiranshastry-lineal-kiranshastry-3.png" alt="introduction"/> Introduction
 - Description: An Introduction PDF file providing an overview of the Operating Systems Lab.
